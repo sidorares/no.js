@@ -18,6 +18,8 @@ shage 1: collect links to what is available right now:
 
 ### dns
 
+https://github.com/tjfontaine/node-dns
+
 ### http
 
 ### util
