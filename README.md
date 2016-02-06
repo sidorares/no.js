@@ -24,6 +24,12 @@ https://github.com/tjfontaine/node-dns
 
 ### util
 
+https://github.com/Xotic750/inspect-x
+
+### assert
+
+https://github.com/Xotic750/assert-x
+
 ### 
 
 ### debugger
