@@ -22,6 +22,11 @@ https://github.com/tjfontaine/node-dns
 
 ### http
 
+### EventEmitter
+
+https://github.com/primus/eventemitter3
+https://github.com/asyncly/EventEmitter2
+
 ### util
 
 https://github.com/Xotic750/inspect-x
